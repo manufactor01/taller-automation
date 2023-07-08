@@ -12,9 +12,21 @@ Programar es como armar una receta de cocina:
 - La receta se la puede modificar y compartir.
 
 # Nuestro primer "Hola Mundo" en TS
-Escribimos un `console.log("hello, world")` y ejecutamos desde el **NPM**.
+Para esta serie, vamos a trabajar con el lenguaje Typescript, que es una "versión" mejorada de Javascript, y es esencial para trabajar con **WebdriverIO**.
+
+Para empezar, necesitamos realizar lo siguiente:
+
+1. Accedemos al siguiente link y clonamos el proyecto base.
+2. Creamos un archivo llamado `hello.ts`.
+3. Abrimos con un editor el archivo e ingresamos lo siguiente:
+    ~~~typescript
+    console.log("hello world");
+    ~~~
+4. Abrimos una consola dentro del proyecto, y ejecutamos el comando de **npm**.
 
 # Tipos de datos en TS
+En Typescript existen distintos tipos de datos. A continuación, se nombrarán algunos:
+
 - **number**: valores numéricos.
 - **string**: cadenas de caracteres.
 - **boolean**: tipos booleanos con valores _"true"_ o _"false"_.
@@ -32,6 +44,9 @@ if (valor1 > 10) {
 	console.log("Es menor que 10...");
 }
 ~~~
+
+# Operadores Lógicos
+
 
 # Loops (while,for)
 Vamos a tener la necesidad de ejecutar instrucciones una cierta cantidad de veces (definida o indefinida).
@@ -151,6 +166,7 @@ snake.mostrarHabilidad();
 
 Podemos definir nuestras clases en archivos separados y usar las palabras reservadas `export` para indicar que una clase se exporta, e `import` para importar la clase en cuestión.
 
+_animal.ts_
 ~~~typescript
 export class Animal {
 	name: string;
@@ -164,9 +180,12 @@ export class Animal {
 }
 ~~~
 
+_main.ts_
 ~~~typescript
 import Animal from './animal';
 
 let animal = new Animal("dog");
 animal.saludar();
 ~~~
+
+## Ejercicios
