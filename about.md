@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Soy Lorblak, estudiante de ingeniería en informática, y actualmente QA Automation Engineer (running-for-architect). 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Tengo especialidad en testing automatizado (Karate DSL, WebdriverIO, Postman, Serenity, Cypress, Selenium + Python), manejo de herramientas de CI, docker.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Como entusiasta de la enseñanza, me gusta dictar talleres relacionados a tecnología (distribuciones Linux, software de automatización, programación). Llevo 3 años capacitando gente en el área de testing automatizado.
