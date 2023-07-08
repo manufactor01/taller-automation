@@ -3,6 +3,15 @@ layout: post
 title: "Practicas con WebdriverIO"
 ---
 
+## Checking de ambientes
+1. Acceder al siguiente [link](https://github.com/manufactor01/starter-webdriverio) y clonar el repositorio de pruebas.
+
+2. Abrir el proyecto en consola y ejecutar el comando **`npm install`**. (En caso de fallar, ejecute el comando **`npm install --legacy-peer-deps`**).
+
+3. Ejecutar el comando **`npm run start-web`**.
+
+Con estos pasos, nos aseguramos de que se ejecutan las pruebas definidas en el framework.
+
 ## Ejercicios
 Vamos a trabajar con la página [Saucedemo](https://www.saucedemo.com/), una página de prácticas para el testing automatizado.
 
