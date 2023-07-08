@@ -4,7 +4,7 @@ title: "Practicas con WebdriverIO"
 ---
 
 ## Checking de ambientes
-1. Acceder al siguiente [link](https://github.com/manufactor01/starter-webdriverio) y clonar el repositorio de pruebas.
+1. Acceder al siguiente [link](https://codeberg.org/32bitt/starter-webdriverio) y clonar el repositorio de pruebas.
 
 2. Abrir el proyecto en consola y ejecutar el comando **`npm install`**. (En caso de fallar, ejecute el comando **`npm install --legacy-peer-deps`**).
 
