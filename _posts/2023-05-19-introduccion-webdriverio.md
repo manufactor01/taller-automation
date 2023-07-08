@@ -55,17 +55,6 @@ Son elementos que nos permiten identificar partes del HTML, y realizar operacion
     ~~~
 - **`xpath`**: Es la ruta completa hacia un elemento desde el elemento raíz. Existen dos tipos (absoluto y relativo), en el cual, uno se define desde el elemento raíz, mientras que el segundo usa comodines para accede a un determinado elemento.  
 
-## Selectors HUB
-
-# Comprendiendo el framework
-Estructura del proyecto
-~~~markdown
-
-~~~
-
-## Ejercicios
-
-
 ## Material adicional
 [¿Qué es un patrón de diseño?](https://refactoring.guru/es/design-patterns/what-is-pattern)
 

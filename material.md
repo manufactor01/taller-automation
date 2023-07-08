@@ -4,7 +4,7 @@ title: Material
 permalink: /material/
 ---
 
-Todas las presentaciones de cada encuentro se estarán almacenando acá.
+Las presentaciones de cada encuentro se estarán almacenando acá.
 
 ## Diapositivas
 
